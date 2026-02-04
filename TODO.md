@@ -1,3 +1,10 @@
+# TODO
+- Implement Validation Step for how_did_you_hear
+- Implement Race Parsing
+- Look into Great Expectations
+- Jack: take a deep look at documentation / refactor
+- Consider ephemeral tables for temp
+
 # Future Refactors Needed
 
 ## Admin Needed
