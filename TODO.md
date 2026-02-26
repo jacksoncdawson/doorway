@@ -1,9 +1,9 @@
 # TODO
-- Implement Validation Step for how_did_you_hear
-- Implement Race Parsing
+- Finish updating 'ingest' tables with RDS validation. Jobs updated on 2/25 are good to go. the rest need work.
 - Look into Great Expectations
 - Jack: take a deep look at documentation / refactor
 - Consider ephemeral tables for temp
+
 
 # Future Refactors Needed
 
